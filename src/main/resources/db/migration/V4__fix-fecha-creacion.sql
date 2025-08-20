@@ -1,0 +1,1 @@
+ALTER TABLE topicos CHANGE fechaCreacion fecha_creacion datetime NOT NULL;
